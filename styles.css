@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 35 px;
+    margin: 35px 20px;
+    padding: 0px;
+}
